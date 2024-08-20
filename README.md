@@ -1,4 +1,4 @@
-![Logo](Assets/Dark.png)
+<img src="Assets/Dark.png" width=200 height=200>
 # inTradeOS
 
 Welcome to the official repository for **inTradeOS**, a Linux system tailored for traders and investors. This project is designed to streamline trading, investing, and risk management with a suite of powerful tools and software.
