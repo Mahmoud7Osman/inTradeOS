@@ -1,4 +1,4 @@
-<img src="Assets/Dark.png" width=200 height=200>
+<img src="Assets/DarkTR.png" width=200 height=200>
 
 # inTradeOS
 
