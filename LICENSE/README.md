@@ -20,6 +20,6 @@ For more detailed licensing information, please refer to the individual license 
 
 ---
 
-Mahmoud Osman
+Mahmoud Osman<br>
 Founder and Creator of inTradeOS
 
