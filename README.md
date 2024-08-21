@@ -44,3 +44,7 @@ I welcome contributions from the community! Please refer to the [Contributing Gu
 ---
 
 Thank you for your interest in inTradeOS. Together, let's build a more efficient and powerful platform for traders and investors!
+
+## Other Links
+
+[Official Youtube Channel](https://www.youtube.com/@inTradeOS)
